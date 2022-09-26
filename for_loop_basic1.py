@@ -33,5 +33,5 @@ highNum = 9
 mult = 3
 
 for i in range(lowNum, highNum+1):
-    if (i%2!=0):
+    if (i%3=0):
         print(i)
